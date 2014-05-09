@@ -15,9 +15,9 @@
 <variable-declaration> ::= <variable> + <variable-tuple>* // Transient
 <variable-tuple> ::= "," + <variable>  // Transient
 
-<assignment> ::= <variable> + "=" + <logical-expression> + ";"
+<assignment> ::= "assign" + <variable> + "=" + <logical-expression> + ";"
 <logical-expression> ::= <two-input-expression> | <not-expression>
 <two-input-expression> ::= <logical-expression> | <bracketed-logical-expression> | <variable> + <opperator> + <logical-expression> | <bracketed-logical-expression> | <variable> //Transient
 <not-expression> ::= "!" + <variable> | <logical-expression> //Transient
-<bracketed-logical-expression> ::= "(" + <logical-expression> +")" 
+<bracketed-logical-expression> ::= "(" + <logical-expression> + ")" 
 <opperator> ::= "^" | "|" | "&" | "!|" | "!&" | "!^"

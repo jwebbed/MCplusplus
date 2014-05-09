@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCplusplus", "MCplusplus.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MClib", "..\MClib\MClib.csproj", "{D68F33F9-5F0F-4B99-A70B-80C31E6D8B4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPPGrammar", "..\MCppParser\MCPPGrammar.csproj", "{992B0DCB-3FBF-4EA8-B902-4ACB95B1C59A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D68F33F9-5F0F-4B99-A70B-80C31E6D8B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D68F33F9-5F0F-4B99-A70B-80C31E6D8B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D68F33F9-5F0F-4B99-A70B-80C31E6D8B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992B0DCB-3FBF-4EA8-B902-4ACB95B1C59A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{992B0DCB-3FBF-4EA8-B902-4ACB95B1C59A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{992B0DCB-3FBF-4EA8-B902-4ACB95B1C59A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{992B0DCB-3FBF-4EA8-B902-4ACB95B1C59A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

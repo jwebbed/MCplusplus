@@ -1,0 +1,8 @@
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\bin\Debug\MCPPGrammar.dll
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\bin\Debug\MCPPGrammar.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\bin\Debug\Irony.dll
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\bin\Debug\Irony.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\bin\Debug\Irony.xml
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\obj\Debug\MCPPGrammar.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\obj\Debug\MCPPGrammar.dll
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCppParser\obj\Debug\MCPPGrammar.pdb
