@@ -25,10 +25,6 @@ namespace MClib
         {
             throw new NotImplementedException();
         }
-        void optimize()
-        {
-            throw new NotImplementedException();
-        }
 
         public MCCircuit connect(IMCObject a, IMCObject b)
         {

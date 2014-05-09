@@ -39,7 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Gates\IMCGate.cs" />
+    <Compile Include="IMCGate.cs" />
     <Compile Include="MCCircuit.cs" />
     <Compile Include="MCObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

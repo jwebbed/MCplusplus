@@ -1,0 +1,7 @@
+﻿module <name> (A, B, C, D, E){
+	output A, B;
+	input C, D, E;
+
+}
+
+<declaration> ::= "input" | "output" <variable>
