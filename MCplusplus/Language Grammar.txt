@@ -4,4 +4,20 @@
 
 }
 
-<declaration> ::= "input" | "output" <variable>
+<module> ::= "module" + <indentifier> + "(" + <variable-declaration> + ")" + "{" + <module-body> + "}"
+<module-body> ::= <statement>* + <input-declaration> + <statement>* + <output-declaration> + <statement>* 
+					| <statement>* + <output-declaration> + <statement>* + <input-declaration> + <statement>* // Transient
+
+<statement> ::= <assignment>
+
+<input-declaration> ::= "input" + <variable-declaration> + ";"
+<output-declaration> ::= "input" + <variable-declaration> + ";"
+<variable-declaration> ::= <variable> + <variable-tuple>* // Transient
+<variable-tuple> ::= "," + <variable>  // Transient
+
+<assignment> ::= <variable> + "=" + <logical-expression> + ";"
+<logical-expression> ::= <logical-expression> | <bracketed-logical-expression> | <variable> + <opperator> + <logical-expression> | <bracketed-logical-expression> | <variable>
+<bracketed-logical-expression> ::= "(" + <logical-expression> +")" 
+<opperator> ::= "^" | "|" | "&"
+
+
