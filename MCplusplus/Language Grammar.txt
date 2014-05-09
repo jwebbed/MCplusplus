@@ -20,6 +20,4 @@
 <two-input-expression> ::= <logical-expression> | <bracketed-logical-expression> | <variable> + <opperator> + <logical-expression> | <bracketed-logical-expression> | <variable> //Transient
 <not-expression> ::= "!" + <variable> | <logical-expression> //Transient
 <bracketed-logical-expression> ::= "(" + <logical-expression> +")" 
-<opperator> ::= "^" | "|" | "&"
-
-
+<opperator> ::= "^" | "|" | "&" | "!|" | "!&" | "!^"
