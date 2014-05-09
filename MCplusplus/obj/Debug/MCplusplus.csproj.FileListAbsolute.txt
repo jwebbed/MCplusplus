@@ -1,0 +1,14 @@
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\MCplusplus.exe.config
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\obj\Debug\MCplusplus.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\MCplusplus.exe
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\MCplusplus.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\Irony.dll
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\MClib.dll
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\MClib.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\Irony.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\bin\Debug\Irony.xml
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\obj\Debug\MCplusplus.exe
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MCplusplus\obj\Debug\MCplusplus.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCplusplus\bin\Debug\MCplusplus.exe.config
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCplusplus\obj\Debug\MCplusplus.exe
+C:\Users\Jonathan Webb\Documents\GitHub\MCplusplus\MCplusplus\obj\Debug\MCplusplus.pdb

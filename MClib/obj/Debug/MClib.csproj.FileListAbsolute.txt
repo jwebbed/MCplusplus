@@ -1,0 +1,5 @@
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MClib\obj\Debug\MClib.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MClib\bin\Debug\MClib.dll
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MClib\bin\Debug\MClib.pdb
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MClib\obj\Debug\MClib.dll
+C:\Users\Jonathan Webb\Documents\GitHub\udep\MClib\obj\Debug\MClib.pdb
