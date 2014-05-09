@@ -36,9 +36,4 @@ namespace MClib
         List<MCWire> outputs { get; }
         MCCircuit connect(IMCObject a, IMCObject b);
     }
-
-    public interface IMCGate : IMCObject
-    {
-
-    }
 }
